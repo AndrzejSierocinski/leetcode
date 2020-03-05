@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ee5276a-b15d-4471-aec9-ec61d52eb12a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/07_rest_crud" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/Informator-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/Spittr" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/Spring-MVC-4" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/Spring-MVC-4en" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/SpringPizza" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/basic-javaee-mvc" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/contacts" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/jsf-crud" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/jsp" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/knight" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/landon-hotel-room-svc" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/linked-in-learning" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/linked-in-learning-full-stack-app-angular-spring-boot" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/linked-in-learning-full-stack-app-angular-spring-boot_05_03" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/mastering-spring-mvc4" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/mastering-spring-mvc4-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/sagan-site" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/spring-framework-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/spring-mvc-4-projektowanie-zaawansowanych-aplikacji-www-geoffroy-warin" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/spring-webmvc" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/thymeleaf" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/thymeleaf2" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/thymeleaf3" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yis28gfZngZ7y6Wza7sJetOLGR" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/script.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ee5276a-b15d-4471-aec9-ec61d52eb12a" name="Default Changelist" comment="" />
+      <created>1583436538185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583436538185</updated>
+      <workItem from="1583436539752" duration="2947000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="93" key="FileChooserDialogImpl" timestamp="1583439561885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="93" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583439561885" />
+    <state width="382" height="75" key="GridCell.Tab.0.bottom" timestamp="1583439595160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="382" height="75" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583439595160" />
+    <state width="382" height="75" key="GridCell.Tab.0.center" timestamp="1583439595160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="382" height="75" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583439595160" />
+    <state width="382" height="75" key="GridCell.Tab.0.left" timestamp="1583439595160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="382" height="75" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583439595160" />
+    <state width="382" height="75" key="GridCell.Tab.0.right" timestamp="1583439595160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="382" height="75" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583439595160" />
+  </component>
+</project>

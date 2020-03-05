@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b6d5f1c-1ac8-4d27-9c6c-c13868142ec6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/07_rest_crud" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/Informator-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/Spittr" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/Spring-MVC-4" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/Spring-MVC-4en" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/SpringPizza" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/basic-javaee-mvc" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/contacts" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/jsf-crud" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/jsp" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/knight" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/landon-hotel-room-svc" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/linked-in-learning" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/linked-in-learning-full-stack-app-angular-spring-boot" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/linked-in-learning-full-stack-app-angular-spring-boot_05_03" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/mastering-spring-mvc4" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/mastering-spring-mvc4-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/sagan-site" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/spring-framework-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/spring-mvc-4-projektowanie-zaawansowanych-aplikacji-www-geoffroy-warin" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/spring-webmvc" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/thymeleaf" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/thymeleaf2" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/thymeleaf3" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yj43Js67uBCWjlESFOpT2NFwOh" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b6d5f1c-1ac8-4d27-9c6c-c13868142ec6" name="Default Changelist" comment="" />
+      <created>1583442468483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583442468483</updated>
+      <workItem from="1583442469605" duration="1835000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
