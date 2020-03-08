@@ -1,54 +1,45 @@
-/*const isPalindrome = function (x) {
-    if (x < 0 || x % 10 === 0 && x !== 0) return false;
-    let reverse = 0;
-    let num = x;
-    while (num > reverse) {
-        reverse = num % 10 + reverse * 10;
-        num = parseInt(num / 10);
-    }
-    return (num === reverse || num === parseInt(reverse / 10));
-};
-console.log(isPalindrome(121));
-console.log(isPalindrome(-121));
-console.log(isPalindrome(10));*/
-
-
-/*const isPalindrome = function (x) {
-    if (x < 0 || (x % 10 === 0 && x !== 0)) {
-        return false;
-    }
-    let reverse_x = 0;
-    while (x > reverse_x) {
-        reverse_x = reverse_x * 10 + x % 10;
-        if (reverse_x === x) {
-            return true;
+function translateRomanNumeral(romanNumeral) {
+    const DIGIT_VALUES = {I: 1, V: 5, X: 10, L: 50, C: 100, D: 500, M: 1000};
+    let result = 0;
+    const input = romanNumeral.split('');
+    for (let i = 0; i < input.length; i++) {
+        const currentLetter = DIGIT_VALUES[input[i]];
+        const nextLetter = DIGIT_VALUES[input[i + 1]];
+        if (currentLetter === undefined) {
+            return 'null';
+        } else {
+            if (currentLetter < nextLetter) {
+                result += nextLetter - currentLetter;
+                i++;
+            } else {
+                result += currentLetter;
+            }
         }
-        x = Math.floor(x / 10);
     }
-    return reverse_x === x;
-};
-console.log(isPalindrome(121));
-console.log(isPalindrome(-121));
-console.log(isPalindrome(10));*/
+    return result;
+}
+
+console.log(translateRomanNumeral('LI'));
 
 
-/*// Converting to string
-const isPalindrome = function(x) {
-    return x === Number(x.toString().split("").reverse().join(""));
-};
-console.log(isPalindrome(121));
-console.log(isPalindrome(-121));
-console.log(isPalindrome(10));*/
+const values = new Map([['I', 1], ['V', 5], ['X', 10], ['L', 50]]);
 
-const isPalindrome = function (x) {
-    if (x < 0) {
-        return false;
+function romanToInt(string) {
+    let result = 0, current, previous = 0;
+    for (const char of string.split("").reverse()) {
+        current = values.get(char);
+        if (current >= previous) {
+            result += current;
+        } else {
+            result -= current;
+        }
+        previous = current;
     }
-    console.log(typeof (x.toFixed(0).split('').reverse().join('')));
-    console.log(typeof (x.toFixed(0).split('').reverse().join('') - 0));
-    return x === x.toFixed(0).split('').reverse().join('') - 0;
-};
+    return result;
+}
 
-console.log(isPalindrome(121));
-console.log(isPalindrome(-121));
-console.log(isPalindrome(10));
+console.log(romanToInt('L'));
+
+
+
+
